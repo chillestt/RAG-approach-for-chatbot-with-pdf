@@ -1,0 +1,23 @@
+- create next app
+- create shadcn
+
+
+- cleark auth -> check whether user login or not
+    -> if not -> log in 
+    -> else: Home page
+
+- config home page
+
+--- lucid-react for icon
+
+- set up page for sign in/sign up
+- get neo db url, set sslmode=require
+- install drizzle-orm, install neondb
+- create db folders: index.ts, schema for db
+- install drizzle-kit
+- install dotenv to make sure drizzle.config.ts can connect to pg db
+
+- create file upload.ts
+
+- setup aws
+-- setup bucket policy
