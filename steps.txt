@@ -21,3 +21,11 @@
 
 - setup aws
 -- setup bucket policy
+
+
+-- install tanstack/....
+-- install Toaster
+
+# pinecone db
+npm i @pinecone-database/pinecone
+
